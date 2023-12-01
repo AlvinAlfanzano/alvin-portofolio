@@ -1,0 +1,38 @@
+.aboutme{
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+    padding-top: 50px;
+    /* padding-left: 100px;
+    padding-right: 100px; */
+}
+.imgMe{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imgMe img{
+    border-radius: 20px;
+    height: 300px;
+    
+}
+.textMe{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    /* padding-left: 100px; */
+    padding-right: 100px;
+}
+.btnHero button{
+    padding: 10px;
+    border-radius: 20px;
+}
+.btnHero button:hover{
+    background-color: #242424;
+    border-color: white;
+    color: white;
+}

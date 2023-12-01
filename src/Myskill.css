@@ -1,0 +1,7 @@
+.conskill{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 20%;
+    color: white;
+}
