@@ -14,7 +14,7 @@ function Aboutme() {
             <h1>Hi, i am Alvin</h1>
             <p>I am a creative problem solver who is interested in producing key research that creates insights that are possible to implement and focuses on customer satisfaction.</p>
             <div className="btnHero">
-                <button onClick={()=>{document.location='https://drive.google.com/file/d/1lgLXEzTfoyoLVVFnw6_ts0x6wjFnwuqV/view?usp=drive_link'}}>Cek My Resume</button>
+                <button onClick={()=>{document.location='https://drive.google.com/file/d/1A-N-IBNjgI87IdN3LJ1irL3gBRwRYI0P/view?usp=sharing'}}>Cek My Resume</button>
                 <button onClick={()=>{document.location='https://github.com/AlvinAlfanzano/'}}>Github</button>
             </div>
         </div>
